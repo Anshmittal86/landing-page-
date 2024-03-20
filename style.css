@@ -1,11 +1,12 @@
 :root {
-  --font-size-md: clamp(12px, 1.125rem + 0.3vw, 18px);
-  --font-size-sm: clamp(8px, 0.875rem + 0.2vw, 14px);
-  --text-9xl: clamp(40px, 6rem + 1.5vw, 128px);
-  --text-7xl: clamp(32px, 3.5rem + 1.5vw, 128px);
-  --text-8xl: clamp(36px, 5rem + 1.2vw, 96px);
-  --text-6xl: clamp(28px, 3rem + 0.8vw, 60px);
-  --text-5xl: clamp(24px, 2.5rem + 1vw, 48px);
+  --font-size-md: clamp(14px, 1.25rem +   0.3vw, 20px);
+  --font-size-sm: clamp(10px, 0.875rem + 0.2vw, 16px);
+  --text-9xl: clamp(48px, 6.5rem + 1.5vw, 144px);
+  --text-7xl: clamp(36px, 4rem + 1.5vw, 120px);
+  --text-8xl: clamp(40px, 5.5rem + 1.2vw, 104px);
+  --text-6xl: clamp(32px, 3.5rem + 0.8vw, 72px);
+  --text-5xl: clamp(28px, 3rem + 1vw, 56px);
+
   /* text primary color  */
   --text-primary-500: #494949;
   --text-primary-600: #000000;
